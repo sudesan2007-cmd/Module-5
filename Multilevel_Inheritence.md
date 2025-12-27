@@ -52,5 +52,7 @@ print(gc.getName(), gc.getAge(), gc.getLocation())
 ## Sample Output
 
 <img width="584" height="181" alt="486530944-f59e1195-c99d-4bed-82b6-f0c472869288" src="https://github.com/user-attachments/assets/82e57be2-f4a8-418d-a3ac-676c0ab99076" />
+
+
 ## Result 
 The code is verified successfully.
